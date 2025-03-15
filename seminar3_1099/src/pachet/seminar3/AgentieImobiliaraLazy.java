@@ -22,19 +22,6 @@ public class AgentieImobiliaraLazy {
         return agentieImobiliara;
     }
 
-    public String getSite() {
-        return site;
-    }
-
-    public void setSite(String site) {
-        this.site = site;
-    }
-
-    public void posteazaAnunt(String anunt)
-    {
-        this.nrAnunturi++;
-    }
-
     @Override
     public String toString() {
         final StringBuilder sb = new StringBuilder("AgentieImobiliara{");
