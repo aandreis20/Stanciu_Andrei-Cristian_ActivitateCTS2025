@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/SeminarCTS.iml" filepath="$PROJECT_DIR$/SeminarCTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar2_1099/seminar2_1099.iml" filepath="$PROJECT_DIR$/seminar2_1099/seminar2_1099.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar3_1099/seminar3_1099.iml" filepath="$PROJECT_DIR$/seminar3_1099/seminar3_1099.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar4_prototype_1099/seminar4_prototype_1099.iml" filepath="$PROJECT_DIR$/seminar4_prototype_1099/seminar4_prototype_1099.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar4_simple_factory_1099/seminar4_simple_factory_1099.iml" filepath="$PROJECT_DIR$/seminar4_simple_factory_1099/seminar4_simple_factory_1099.iml" />
     </modules>
   </component>
 </project>
